@@ -8,5 +8,5 @@ There is also an admin menu for
 Managing booksGenerating reports
 Performing other administrative tasks
 The program uses structures and linked lists to store customer and book information. 
-Overall, it allows users to      make book purchases and provides admin functionalities for book management.
+Overall, it allows users to      make book purchases and provides admin functionalities for book management..
 
